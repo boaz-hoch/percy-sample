@@ -25,10 +25,10 @@
   "include": [],
   "references": [
     {
-      "path": "./tsconfig.app.json"
+      "path": "./apps/percy-sample/tsconfig.app.json"
     },
     {
-      "path": "./tsconfig.spec.json"
+      "path": "./apps/percy-sample/tsconfig.spec.json"
     }
   ],
   "compileOnSave": false,
